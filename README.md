@@ -1,4 +1,4 @@
-# VCCorp
+# <h1 align="center"> VCCorp </h1>
 # <h1 align="center">CRONOGRAMA DE ENTREGAS📆</h1>
     ✅  **Kick off geral** - 04/03/2024 á 08/03/2024
     ✅  **Kick off do projeto** 11/03/2024 á 15/03/2024
