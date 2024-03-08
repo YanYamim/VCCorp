@@ -13,13 +13,14 @@
 
 <h3>Product Backlog</h3>
 
-| ID  | Nome da Issue               | Descrição                                              | Prioridade | Estimativa |
-|-----|-----------------------------|--------------------------------------------------------|------------|------------|
-| #1  | Implementar login           | Adicionar funcionalidade de login para usuários         | Alta       | 5 pontos   |
-| #2  | Melhorar UI                 | Aprimorar a interface do usuário                         | Média      | 3 pontos   |
-| #3  | Adicionar funcionalidade X  | Descrição detalhada da nova funcionalidade              | Baixa      | 8 pontos   |
-| #4  | Corrigir bug Y              | Resolver bug que causa problema na funcionalidade Y     | Alta       | 2 pontos   |
-| #5  | Otimizar desempenho         | Realizar melhorias de desempenho no código               | Média      | 5 pontos   |
+| Prioridade  | Função               | Descrição                                              | Estimativa (Exemplo) |
+|-----|-----------------------------|--------------------------------------------------------|------------|
+| #1  | Implementar login           | Adicionar funcionalidade de login para usuários         | 5 dias   |
+| #2  | Melhorar UI                 | Aprimorar a interface do usuário                         | 3 dias   |
+| #3  | Adicionar funcionalidade X  | Descrição detalhada da nova funcionalidade              | 8 dias   |
+| #4  | Corrigir bug Y              | Resolver bug que causa problema na funcionalidade Y     | 2 dias   |
+| #5  | Otimizar desempenho         | Realizar melhorias de desempenho no código               | 5 dias   |
+
 
 # <h1 align="center">CRONOGRAMA DE ENTREGAS📆</h1>
     ✅  **Kick off geral** - 04/03/2024 á 08/03/2024
