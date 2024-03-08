@@ -5,7 +5,7 @@
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
 |-----------------------------------|--------------------|--------------------|
-| [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)       | Product Owner     | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" witdh="50px"/>|
+| [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)       | Product Owner     | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" width="50px"/>|
 | [Yan Costa Yamim](https://github.com/yancostayamim)                   | Scrum Master      |
 | [Cristiane Lima Alvares](https://github.com/hstcris)             | Desenvolvedora                |
 | [Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor                |
