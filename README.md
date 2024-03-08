@@ -17,11 +17,11 @@
 
 | Prioridade  | Função               | Descrição                                              | Estimativa (Exemplo) |
 |-----|-----------------------------|--------------------------------------------------------|------------|
-| 1  | Implementar login           | Adicionar funcionalidade de login para usuários         | 5 dias   |
-| 2  | Melhorar UI                 | Aprimorar a interface do usuário                         | 3 dias   |
-| 3  | Adicionar funcionalidade X  | Descrição detalhada da nova funcionalidade              | 8 dias   |
-| 4  | Corrigir bug Y              | Resolver bug que causa problema na funcionalidade Y     | 2 dias   |
-| 5  | Otimizar desempenho         | Realizar melhorias de desempenho no código               | 5 dias   |
+| 1  | Funcão         | Descrição               | 5 dias   |
+| 2  | Funcão               | Descrição                              | 3 dias   |
+| 3  | Funcão  | Descrição                    | 8 dias   |
+| 4  | Funcão          | Descrição           | 2 dias   |
+| 5  | Funcão        | Descrição                    | 5 dias   |
 
 
 # <h1 align="center">CRONOGRAMA DE ENTREGAS📆</h1>
