@@ -5,13 +5,13 @@
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
 |-----------------------------------|--------------------|--------------------|
-| Eduardo da Silva Lima             | Product Owner     |
-| Yan Costa Yamim                   | Scrum Master      |
-| Cristiane Lima Alvares            | Desenvolvedora                |
-|Daniel Moreira Santos Lima       | Desenvolvedor                |
-| Gabriel Alves de Souza         | Desenvolvedor                |
-| Guilherme Bezerra Junqueira       | Desenvolvedor                |
-| Pedro Henrique Lopes de Souza           | Desenvolvedor                |
+| [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)             | Product Owner     |
+| [Yan Costa Yamim](https://github.com/YanYamim)                   | Scrum Master      |
+| [Cristiane Lima Alvares](https://github.com/hstcris)            | Desenvolvedora                |
+|[Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor                |
+| [Gabriel Alves de Souza](https://github.com/gabriel15asouza)         | Desenvolvedor                |
+| [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)       | Desenvolvedor                |
+| [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor                |
 
 <h3>Product Backlog</h3>
 
