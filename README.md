@@ -5,7 +5,7 @@
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
 |-----------------------------------|--------------------|--------------------|
-| <a href= "https://github.com/PortifoliodoEdu" style="text-decoration:none; color:white> Eduardo da Silva Lima</a>         | Product Owner     |
+| <span style="text-decoration:none; color:white;">[Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)</span>          | Product Owner     |
 | <a href="https://github.com/YanYamim" style="text-decoration:none; color:white> Yan Costa Yamim</a>                   | Scrum Master      |
 | <a href="https://github.com/hstcris" style="text-decoration:none; color:white> Cristiane Lima Alvares</a>            | Desenvolvedora                |
 |<a href="https://github.com/DanielLimaCpy" style="text-decoration:none; color:white> Daniel Moreira Santos Lima</a>       | Desenvolvedor                |
