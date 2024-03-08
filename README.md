@@ -5,13 +5,13 @@
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
 |-----------------------------------|--------------------|--------------------|
-| [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)       | Product Owner     | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" width="50px"/>|
-| [Yan Costa Yamim](https://github.com/yancostayamim)                   | Scrum Master      |
-| [Cristiane Lima Alvares](https://github.com/hstcris)             | Desenvolvedora                |
-| [Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor                |
-| [Gabriel Alves de Souza](https://github.com/gabriel15asouza)       | Desenvolvedor                |
-| [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)      | Desenvolvedor                |
-| [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor                |
+| [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)       | Product Owner     | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/24de5e7d-c40f-4d88-a9b6-48ee56f76ec8" width="50px"/>|
+| [Yan Costa Yamim](https://github.com/yancostayamim)                   | Scrum Master      | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" width="50px"/>|
+| [Cristiane Lima Alvares](https://github.com/hstcris)             | Desenvolvedora                | <img src = "" width="50px"/>|
+| [Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor                | <img src = "" width="50px"/>|
+| [Gabriel Alves de Souza](https://github.com/gabriel15asouza)       | Desenvolvedor                | <img src = "" width="50px"/>|
+| [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)      | Desenvolvedor                | <img src = "" width="50px"/>|
+| [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor                | <img src = "" width="50px"/>|
 
 <h3>Product Backlog</h3>
 
