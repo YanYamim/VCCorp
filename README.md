@@ -7,11 +7,11 @@
 |-----------------------------------|--------------------|--------------------|
 | Eduardo da Silva Lima             | Product Owner     |
 | Yan Costa Yamim                   | Scrum Master      |
-| Cristiane Lima Alvares            | Desenvolvedor                |
-| Pedro Henrique Lopes de Souza     | Desenvolvedor                |
-| Daniel Moreira Santos Lima        | Desenvolvedor                |
+| Cristiane Lima Alvares            | Desenvolvedora                |
+|Daniel Moreira Santos Lima       | Desenvolvedor                |
+| Gabriel Alves de Souza         | Desenvolvedor                |
 | Guilherme Bezerra Junqueira       | Desenvolvedor                |
-| Gabriel Alves de Souza            | Desenvolvedor                |
+| Pedro Lopes de Souza Lima           | Desenvolvedor                |
 
 <h3>Product Backlog</h3>
 
