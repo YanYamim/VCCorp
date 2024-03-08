@@ -1,5 +1,5 @@
-# <h1 align="center"> VCCorp </h1>
-<h2>Sobre nós!</h2>
+# <h1 align="center"> VCCorp 🐕​ </h1>
+<h2>Sobre nós! 🐶​ </h2>
 <p></p>
 
 # <h1 align="center">INTEGRANTES👨‍💻👩‍💻</h1>
