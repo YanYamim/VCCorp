@@ -1,6 +1,6 @@
 # <h1 align="center"> VCCorp 🐕​ </h1>
 <h2>Sobre nós! 🐶​ </h2>
-<p></p>
+<p>Descrição sobre a equipe</p>
 
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
