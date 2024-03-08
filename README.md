@@ -7,7 +7,7 @@
 |-----------------------------------|--------------------|--------------------|
 | [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)       | Product Owner | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/24de5e7d-c40f-4d88-a9b6-48ee56f76ec8" width="100px"/>|
 | [Yan Costa Yamim](https://github.com/yancostayamim)                   | Scrum Master | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" width="100px"/>|
-| [Cristiane Lima Alvares](https://github.com/hstcris)             | Desenvolvedora  | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/c2d64b75-d1f6-4abf-bdfc-ec996563ba5f" width="50px"/>|
+| [Cristiane Lima Alvares](https://github.com/hstcris)             | Desenvolvedora  | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/c2d64b75-d1f6-4abf-bdfc-ec996563ba5f" width="100px"/>|
 | [Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor | <img src = "" width="50px"/>|
 | [Gabriel Alves de Souza](https://github.com/gabriel15asouza)       | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/e5cc312c-c170-4d27-906d-d49e4b985e6d)" width="100px"/>|
 | [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)      | Desenvolvedor | <img src = "" width="50px"/>|
