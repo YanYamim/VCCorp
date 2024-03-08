@@ -5,13 +5,13 @@
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
 |-----------------------------------|--------------------|--------------------|
-| [Eduardo da Silva Lima](https://github.com/PortifoliodoEdu)             | Product Owner     |
-| [Yan Costa Yamim](https://github.com/YanYamim)                   | Scrum Master      |
-| [Cristiane Lima Alvares](https://github.com/hstcris)            | Desenvolvedora                |
-|[Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor                |
-| [Gabriel Alves de Souza](https://github.com/gabriel15asouza)         | Desenvolvedor                |
-| [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)       | Desenvolvedor                |
-| [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor                |
+| <a href= "https://github.com/PortifoliodoEdu" style="text-decoration:none; color:white> Eduardo da Silva Lima</a>         | Product Owner     |
+| <a href="https://github.com/YanYamim" style="text-decoration:none; color:white> Yan Costa Yamim</a>                   | Scrum Master      |
+| <a href="https://github.com/hstcris" style="text-decoration:none; color:white> Cristiane Lima Alvares</a>            | Desenvolvedora                |
+|<a href="https://github.com/DanielLimaCpy" style="text-decoration:none; color:white> Daniel Moreira Santos Lima</a>       | Desenvolvedor                |
+| <a href="https://github.com/gabriel15asouza"  style="text-decoration:none; color:white> Gabriel Alves de Souza</a>       | Desenvolvedor                |
+| <a href="https://github.com/GuilhermebJunqueira" style="text-decoration:none; color:white> Guilherme Bezerra Junqueira</a>      | Desenvolvedor                |
+| <a href="https://github.com/pelopinho" style="text-decoration:none; color:white> Pedro Henrique Lopes de Souza</a>           | Desenvolvedor                |
 
 <h3>Product Backlog</h3>
 
