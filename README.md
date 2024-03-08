@@ -9,7 +9,7 @@
 | [Yan Costa Yamim](https://github.com/yancostayamim)                   | Scrum Master      | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" width="100px"/>|
 | [Cristiane Lima Alvares](https://github.com/hstcris)             | Desenvolvedora                | <img src = "" width="50px"/>|
 | [Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor                | <img src = "" width="50px"/>|
-| [Gabriel Alves de Souza](https://github.com/gabriel15asouza)       | Desenvolvedor                | <img src = "" width="50px"/>|
+| [Gabriel Alves de Souza](https://github.com/gabriel15asouza)       | Desenvolvedor       | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/e5cc312c-c170-4d27-906d-d49e4b985e6d)" width="100px"/>|
 | [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)      | Desenvolvedor                | <img src = "" width="50px"/>|
 | [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor                | <img src = "" width="50px"/>|
 
