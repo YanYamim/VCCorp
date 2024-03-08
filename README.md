@@ -11,7 +11,7 @@
 | [Daniel Moreira Santos Lima](https://github.com/DanielLimaCpy)       | Desenvolvedor | <img src = "" width="50px"/>|
 | [Gabriel Alves de Souza](https://github.com/gabriel15asouza)       | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/e5cc312c-c170-4d27-906d-d49e4b985e6d)" width="100px"/>|
 | [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)      | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/2bd4f098-fbf3-46c9-bcf1-696c1e396c44" width="100px"/>|
-| [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor | <img src = "" width="50px"/>|
+| [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/ad8a9b5a-c699-4dfd-b2ca-2eee1476d103" width="100px"/>|
 
 <h3>Product Backlog</h3>
 
