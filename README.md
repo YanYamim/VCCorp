@@ -2,7 +2,7 @@
 <h2>Sobre nós! 🐶​ </h2>
 <p></p>
 
-# <h1 align="center">INTEGRANTES👨‍💻👩‍💻</h1>
+# <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                              | Função          | Fotos
 |-----------------------------------|--------------------|--------------------|
 | Eduardo da Silva Lima             | Product Owner     |
