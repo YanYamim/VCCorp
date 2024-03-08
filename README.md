@@ -11,7 +11,7 @@
 |Daniel Moreira Santos Lima       | Desenvolvedor                |
 | Gabriel Alves de Souza         | Desenvolvedor                |
 | Guilherme Bezerra Junqueira       | Desenvolvedor                |
-| Pedro Lopes de Souza Lima           | Desenvolvedor                |
+| Pedro Henrique Lopes de Souza           | Desenvolvedor                |
 
 <h3>Product Backlog</h3>
 
