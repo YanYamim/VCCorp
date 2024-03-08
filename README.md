@@ -3,23 +3,25 @@
 <p></p>
 
 # <h1 align="center">INTEGRANTES👨‍💻👩‍💻</h1>
-- Eduardo da Silva Lima (Product Owner)
-- Yan Costa Yamim (Scrum Master)
-- Cristiane Lima Alvares (Dev)
-- Pedro Henrique Lopes de Souza (Dev)
-- Daniel Moreira Santos Lima (Dev)
-- Guilherme Bezerra Junqueira (Dev)
-- Gabriel Alves de Souza (Dev)
+| Nome                              | Função          | Fotos
+|-----------------------------------|--------------------|--------------------|
+| Eduardo da Silva Lima             | Product Owner     |
+| Yan Costa Yamim                   | Scrum Master      |
+| Cristiane Lima Alvares            | Desenvolvedor                |
+| Pedro Henrique Lopes de Souza     | Desenvolvedor                |
+| Daniel Moreira Santos Lima        | Desenvolvedor                |
+| Guilherme Bezerra Junqueira       | Desenvolvedor                |
+| Gabriel Alves de Souza            | Desenvolvedor                |
 
 <h3>Product Backlog</h3>
 
 | Prioridade  | Função               | Descrição                                              | Estimativa (Exemplo) |
 |-----|-----------------------------|--------------------------------------------------------|------------|
-| #1  | Implementar login           | Adicionar funcionalidade de login para usuários         | 5 dias   |
-| #2  | Melhorar UI                 | Aprimorar a interface do usuário                         | 3 dias   |
-| #3  | Adicionar funcionalidade X  | Descrição detalhada da nova funcionalidade              | 8 dias   |
-| #4  | Corrigir bug Y              | Resolver bug que causa problema na funcionalidade Y     | 2 dias   |
-| #5  | Otimizar desempenho         | Realizar melhorias de desempenho no código               | 5 dias   |
+| 1  | Implementar login           | Adicionar funcionalidade de login para usuários         | 5 dias   |
+| 2  | Melhorar UI                 | Aprimorar a interface do usuário                         | 3 dias   |
+| 3  | Adicionar funcionalidade X  | Descrição detalhada da nova funcionalidade              | 8 dias   |
+| 4  | Corrigir bug Y              | Resolver bug que causa problema na funcionalidade Y     | 2 dias   |
+| 5  | Otimizar desempenho         | Realizar melhorias de desempenho no código               | 5 dias   |
 
 
 # <h1 align="center">CRONOGRAMA DE ENTREGAS📆</h1>
