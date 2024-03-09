@@ -13,6 +13,16 @@
 | [Guilherme Bezerra Junqueira](https://github.com/GuilhermebJunqueira)      | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/2bd4f098-fbf3-46c9-bcf1-696c1e396c44" width="150px"/>|
 | [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/ad8a9b5a-c699-4dfd-b2ca-2eee1476d103" width="150px"/>|
 
+
+# <h2>Calendário Sprints</h2>
+
+| Sprints | Tempo de entrega               |
+|---------|-------------------------------|
+| 1       | 25/03/2024 a 14/04/2024       |
+| 2       | 15/04/2024 a 05/05/2024       |
+| 3       | 06/05/2024 a 26/05/2024       |
+| 4       | 27/05/2024 a 16/06/2024       |
+
 <h3>Product Backlog</h3>
 
 | Prioridade  | Função               | Descrição                                              | Estimativa (Exemplo) |
@@ -23,11 +33,10 @@
 | 4  | Funcão          | Descrição           | 2 dias   |
 | 5  | Funcão        | Descrição                    | 5 dias   |
 
-
-# <h1 align="center">CRONOGRAMA DE ENTREGAS📆</h1>
-    ✅  **Kick off geral** - 04/03/2024 á 08/03/2024
-    ✅  **Kick off do projeto** 11/03/2024 á 15/03/2024
-    ✅  **Sprint 1** - 25/03/2024 á 14/04/2024
-    ✅  **Sprint 2** - 15/04/2024 á 05/05/2024
-    ✅  **Sprint 3** - 06/05/2024 á 26/05/2024
-    ✅  **Sprint 4** - 27/05/2024 á 16/06/2024
+<h2>Ferramentas usadas</h2>
+<li>
+    <ul>Intellij <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" width = "50px"/></ul>
+    <ul>Java <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0" width = "50px"/></ul>
+    <ul>JDBC <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/d63fea0c-ed92-4d10-bd47-68abdbf9cd0d" width = "50px"/></ul>
+    <ul>JavaFX <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a" width = "130px"/></ul>
+</li>
