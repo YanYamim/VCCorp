@@ -14,7 +14,7 @@
 | [Pedro Henrique Lopes de Souza](https://github.com/pelopinho)           | Desenvolvedor | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/ad8a9b5a-c699-4dfd-b2ca-2eee1476d103" width="150px"/>|
 
 
-# <h2>Calendário Sprints</h2>
+# <h2>Calendário Sprints 🗓️</h2>
 
 | Sprints | Tempo de entrega               |
 |---------|-------------------------------|
@@ -33,7 +33,7 @@
 | 4  | Funcão          | Descrição           | 2 dias   |
 | 5  | Funcão        | Descrição                    | 5 dias   |
 
-<h2>Ferramentas usadas</h2>
+<h2>Ferramentas usadas 💻</h2>
 <li>
     <ul>Intellij <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" width = "50px"/></ul>
     <ul>Java <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0" width = "50px"/></ul>
