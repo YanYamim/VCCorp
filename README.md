@@ -7,10 +7,10 @@
 |-----------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | Eduardo da Silva Lima | Product Owner   | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/24de5e7d-c40f-4d88-a9b6-48ee56f76ec8" width="150px"/> | [GitHub](https://github.com/PortifoliodoEdu) [Linkedln](https://www.linkedin.com/in/edu-datamarketing) |
 | Yan Costa Yamim | Scrum Master    | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/f3a0006b-3a5b-45ef-9108-aaf8c2634d98" width="150px"/> | [GitHub](https://github.com/yancostayamim) |
-| Cristiane Lima Alvares  | Desenvolvedora  | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/c2d64b75-d1f6-4abf-bdfc-ec996563ba5f" width="150px"/> | [GitHub](https://github.com/hstcris) |
+| Cristiane Lima Alvares  | Desenvolvedora  | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/c2d64b75-d1f6-4abf-bdfc-ec996563ba5f" width="150px"/> | [GitHub](https://github.com/hstcris) [Linkedln](https://www.linkedin.com/in/cristiane-alvares/) |
 | Daniel Moreira Santos Lima  | Desenvolvedor  | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/da3b8d2b-ec18-405c-b2be-7bedff43a27c" width="150px"/> | [GitHub](https://github.com/DanielLimaCpy) [Linkedln](https://www.linkedin.com/in/daniel-lima-637648179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Gabriel Alves de Souza   | Desenvolvedor   | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/e5cc312c-c170-4d27-906d-d49e4b985e6d" width="150px"/> |[GitHub](https://github.com/gabriel15asouza) |
-| Guilherme Bezerra Junqueira | Desenvolvedor | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/2bd4f098-fbf3-46c9-bcf1-696c1e396c44" width="150px"/> | [GitHub](https://github.com/GuilhermebJunqueira) |
+| Guilherme Bezerra Junqueira | Desenvolvedor | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/2bd4f098-fbf3-46c9-bcf1-696c1e396c44" width="150px"/> | [GitHub](https://github.com/GuilhermebJunqueira) [Linkedln](https://www.linkedin.com/in/guilherme-bezerra-a01035170/) |
 | Pedro Henrique Lopes de Souza | Desenvolvedor   | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/ad8a9b5a-c699-4dfd-b2ca-2eee1476d103" width="150px"/> | [GitHub](https://github.com/pelopinho) [Linkedln](https://www.linkedin.com/in/pelopes7/)|
 
 
