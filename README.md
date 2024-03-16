@@ -28,11 +28,11 @@
 
 | Prioridade  | Função               | Descrição                                              | Estimativa (Exemplo) |
 |-----|-----------------------------|--------------------------------------------------------|------------|
-| 0  | Interface com opção de fazer upload de arquivo csv e barra de pesquisa         | Descrição               | 5 dias   |
-| 0  | Conversação de unidades de temperatura;               | Descrição                              | 3 dias   |
-| 0  | Código para exibição de dados no console (paliativo), depois transformar em interface  | Descrição                    | 8 dias   |
-| 0  | conexão com sql          | Descrição           | 2 dias   |
-| 0  | Criar um diagrama de classes       | Descrição                    | 5 dias   |
+| 1  | Interface com opção de fazer upload de arquivo csv e barra de pesquisa         | Descrição               | 5 dias   |
+| 2  |Código para exibição de dados no console (paliativo), depois transformar em interface Conversação de unidades de temperatura;               | Descrição                              | 3 dias   |
+| 3  | Conversação de unidades de temperatura;  | Descrição                    | 8 dias   |
+| 4  | conexão com sql          | Descrição           | 2 dias   |
+| 5  | Criar um diagrama de classes       | Descrição                    | 5 dias   |
 
 <h2>Ferramentas usadas 💻</h2>
 <li>
