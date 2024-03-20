@@ -52,9 +52,12 @@
     <ul>Trello <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699" width = "100px"/></ul>
 </li>
 
-- [IntelliJ](https://www.jetbrains.com/idea/) ![IntelliJ Logo](https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449 =50x)
-- [Java](https://www.java.com/) ![Java Logo](https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0 =50x)
-- [MySQL](https://www.mysql.com/) ![MySQL Logo](https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223 =100x)
-- [JavaFX](https://openjfx.io/) ![JavaFX Logo](https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a =130x)
-- [Discord](https://discord.com/) ![Discord Logo](https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0 =100x)
-- [Trello](https://trello.com/) ![Trello Logo](https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699 =100x)
+| Ferramenta | Logomarca |
+|------------|-----------|
+| [IntelliJ](https://www.jetbrains.com/idea/) | ![IntelliJ Logo](https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449 =50x) |
+| [Java](https://www.java.com/) | ![Java Logo](https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0 =50x) |
+| [MySQL](https://www.mysql.com/) | ![MySQL Logo](https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223 =100x) |
+| [JavaFX](https://openjfx.io/) | ![JavaFX Logo](https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a =130x) |
+| [Discord](https://discord.com/) | ![Discord Logo](https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0 =100x) |
+| [Trello](https://trello.com/) | ![Trello Logo](https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699 =100x) |
+
