@@ -34,6 +34,14 @@
 | 4  | conexão com sql          | Descrição           | 2 dias   |
 | 5  | Criar um diagrama de classes       | Descrição                    | 5 dias   |
 
+<h3>User Stories</h3>
+
+| Sprints | Tarefas |
+|--------|--------|
+| 1 | Interface com opção de fazer upload de arquivo csv e barra de pesquisa e Readme.md | 
+| 2 | Padronizar as unidades de temperatura, Criar um diagrama de classes |
+| 3 | Conexão dos códigos Java com o banco de dados SQL |
+
 <h2>Ferramentas usadas 💻</h2>
 <li>
     <ul>Intellij <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" width = "50px"/></ul>
