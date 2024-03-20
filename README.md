@@ -46,7 +46,7 @@
 <li>
     <ul>Intellij <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" width = "50px"/></ul>
     <ul>Java <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0" width = "50px"/></ul>
-    <ul>JDBC <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/d63fea0c-ed92-4d10-bd47-68abdbf9cd0d" width = "50px"/></ul>
+    <ul>MySQL <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223" width = "100px"/></ul>
     <ul>JavaFX <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a" width = "130px"/></ul>
     <ul>Discord <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0" width = "100px"/></ul>
     <ul>Trello <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699" width = "100px"/></ul>
