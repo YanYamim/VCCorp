@@ -54,10 +54,10 @@
 
 | Ferramenta | Logomarca |
 |------------|-----------|
-| [IntelliJ](https://www.jetbrains.com/idea/) | Trello <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" ="50px"/></ul>
-| [Java](https://www.java.com/) | Trello <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0 ="50px"/></ul>
-| [MySQL](https://www.mysql.com/) | Trello <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223 ="100px"/></ul>
-| [JavaFX](https://openjfx.io/) | Trello <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a ="130px"/></ul>
-| [Discord](https://discord.com/) | Trello <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0 = "50px"/></ul>
-| [Trello](https://trello.com/) | Trello <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699 = "50px"/></ul>
+| [IntelliJ](https://www.jetbrains.com/idea/) | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" width="50px"/> |
+| [Java](https://www.java.com/) | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0" width="50px"/> |
+| [MySQL](https://www.mysql.com/) | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223" width="100px"/> |
+| [JavaFX](https://openjfx.io/) | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a" width="130px"/> |
+| [Discord](https://discord.com/) | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0" width="100px"/> |
+| [Trello](https://trello.com/) | <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699" width="100px"/> |
 
