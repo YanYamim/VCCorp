@@ -4,7 +4,7 @@
 
 <i>"Na Fatec - SJC, um grupo de estudantes se uniu para o projeto integrador e se autodenominou Vira-lata Caramelo Corp! Por quê? Como todo nome, há profundidade nos significados:
 <br>1º.Para estampar no peito o orgulho de ser brasileiro! (E o cão tão querido representa isso perfeitamente.) </br>
-<br>2º.Reconhecendo as limitações da tecnologia e as vezes adversidades enfrentadas, é crucial saber se adaptar e superar!"</br></i>
+<br>2º.Pois a tecnologia tem limitações, e nem sempre as condições estão a nosso favor, é preciso saber se virar!</br></i>
 
 
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
