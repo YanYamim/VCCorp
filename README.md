@@ -2,6 +2,11 @@
 <h2>Sobre nós! 🐶​ </h2>
 <p>Descrição sobre a equipe</p>
 
+<i>"Na Fatec - SJC, um grupo de estudantes se uniu para o projeto integrador e se autodenominou Vira-lata Caramelo Corp! Por quê? Como todo nome, há profundidade nos significados:
+1.Para estampar no peito o orgulho de ser brasileiro! (E o cão tão querido representa isso perfeitamente.)
+2.Reconhecendo as limitações da tecnologia e as vezes adversidades enfrentadas, é crucial saber se adaptar e superar!"</i>
+
+
 # <h2>INTEGRANTES👨‍💻👩‍💻</h2>
 | Nome                                    | Função          | Fotos                                                                                                     | GitHub e LinkedIn                                        |
 |-----------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -13,6 +18,7 @@
 | Guilherme Bezerra Junqueira | Desenvolvedor | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/2bd4f098-fbf3-46c9-bcf1-696c1e396c44" width="150px"/> | [GitHub](https://github.com/GuilhermebJunqueira) [Linkedln](https://www.linkedin.com/in/guilherme-bezerra-a01035170/) |
 | Pedro Henrique Lopes de Souza | Desenvolvedor   | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/ad8a9b5a-c699-4dfd-b2ca-2eee1476d103" width="150px"/> | [GitHub](https://github.com/pelopinho) [Linkedln](https://www.linkedin.com/in/pelopes7/)|
 
+# <h2>Sobre o projeto 💬</h2>
 
 
 # <h2>Calendário Sprints 🗓️</h2>
@@ -42,15 +48,6 @@
 | 2 | Padronizar as unidades de temperatura, Criar um diagrama de classes |
 | 3 | Conexão dos códigos Java com o banco de dados SQL |
 
-<h2>Ferramentas usadas 💻</h2>
-<li>
-    <ul>Intellij <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1a958a68-6602-43c1-8532-c226d9962449" width = "50px"/></ul>
-    <ul>Java <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3108797b-abd0-4527-91cc-fecd39bb4ba0" width = "50px"/></ul>
-    <ul>MySQL <img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223" width = "100px"/></ul>
-    <ul>JavaFX <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a" width = "130px"/></ul>
-    <ul>Discord <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0" width = "100px"/></ul>
-    <ul>Trello <img src ="https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699" width = "100px"/></ul>
-</li>
 
 | Ferramenta | Logomarca |
 |------------|-----------|
