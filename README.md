@@ -32,13 +32,25 @@
 
 <h3>Product Backlog</h3>
 
-| Prioridade  | Função               | Descrição                                              | Estimativa (Exemplo) |
-|-----|-----------------------------|--------------------------------------------------------|------------|
-| 1  | Interface com opção de fazer upload de arquivo csv e barra de pesquisa         | Descrição               | 5 dias   |
-| 2  |Código para exibição de dados no console (paliativo), depois transformar em interface Conversação de unidades de temperatura;               | Descrição                              | 3 dias   |
-| 3  | Conversação de unidades de temperatura;  | Descrição                    | 8 dias   |
-| 4  | conexão com sql          | Descrição           | 2 dias   |
-| 5  | Criar um diagrama de classes       | Descrição                    | 5 dias   |
+ | Prioridade | Função                                             | Descrição                                                                                                          | Estimativa (Exemplo) |
+|------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------------|
+| ??         | Criar Diagrama de Classes                          | Elaborar o diagrama de classes para representar a estrutura do sistema e as relações entre as entidades.            | x dias               |
+| ??         | Modelar Banco de Dados                            | Modelar o banco de dados para armazenar os dados climáticos de forma eficiente e organizada.                       | x dias               |
+| ??         | Criar Wireframes                                  | Criar wireframes para visualizar a interface e validar com o cliente.                                                | x dias               |
+| ??         | Leitura e Validação de Arquivos CSV               | Desenvolver a lógica para carregar e validar arquivos CSV contendo dados climáticos. Identificar e armazenar os registros suspeitos para revisão manual.             | x dias               |
+| ??         | Identificação de Cidades                          | Extrair o nome da cidade a partir do nome do arquivo CSV. Associar cada arquivo à sua respectiva cidade.             | x dias               |
+| ??         | Unificação dos Dados                              | Desenvolver a estrutura de dados para armazenar os dados unificados das cidades. Implementar a lógica para unificar os dados das estações meteorológicas.          | x dias               |
+| ??         | Gerenciamento de Estaçōes, Cidades e Unidades de Medida | Desenvolver a funcionalidade para visualizar, adicionar, modificar e excluir informações sobre estações meteorológicas, cidades e unidades de medida.       | x dias               |
+| ??         | Carregamento e Validação de Arquivos CSV (Aprimoramento) | Aprimorar a lógica de validação para identificar registros suspeitos de forma mais precisa. Desenvolver a funcionalidade para carregar arquivos CSV e armazenar os dados na base de dados. | x dias               |
+| ??         | Tratamento de Registros Suspeitos                 | Implementar uma interface para revisão e correção de registros suspeitos. Permitir a exclusão ou revisão dos registros suspeitos e sua adição à base de dados principal. | x dias               |
+| ??         | Relatório de Médias por Cidade e Período          | Desenvolver a funcionalidade para gerar relatórios de médias das variáveis climáticas por cidade e período de tempo selecionados pelo usuário.                        | x dias               |
+| ??         | Preparação para Plotagem de Gráficos Boxplot      | Implementar a lógica para calcular os elementos necessários para plotagem de gráficos boxplot com base nos dados de uma estação em uma determinada data.               | x dias               |
+| ??         | Ajustes e Melhorias                               | Realizar ajustes finais e melhorias de usabilidade com base no feedback do usuário.                                 | x dias               |
+| ??         | Testes e Garantia de Qualidade                    | Realizar testes de integração e garantir a qualidade do sistema.                                                    | x dias               |
+| ??         | Documentação                                      | Preparar a documentação do sistema, incluindo manuais de usuário e desenvolvedor.                                   | x dias               |
+| ??         | Implementar Banco de Dados MySQL                  | Configurar e implementar o banco de dados MySQL para armazenar os dados climáticos conforme o modelo definido.      | x dias               |
+| ??         | Criar Interface de Usuário (UI)                   | Desenvolver a interface de usuário visual para facilitar a interação do usuário com o sistema.                      | x dias               ??
+
 
 
 
