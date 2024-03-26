@@ -66,7 +66,5 @@
 | [MySQL](https://www.mysql.com/) | [<img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1c4c4790-c264-49e6-bd83-cf3bd4d18223" width="100px"/>](https://www.mysql.com/)   |
 | [JavaFX](https://openjfx.io/) | [<img src = "https://github.com/YanYamim/VCCorp/assets/119015786/3220ca0f-4f8e-40e0-aa8d-31d00cdd796a" width="130px"/>](https://openjfx.io/) |
 | [Discord](https://discord.com/) | [<img src = "https://github.com/YanYamim/VCCorp/assets/119015786/1f746402-43c0-4c6f-ba10-ffb4041f49a0" width="100px"/>](https://discord.com/) |
-| [Trello](https://trello.com/) | [<img src = "https://github.com/YanYamim/VCCorp/assets/119015786/cb967eb8-133f-4cf0-9f10-4632b48e9699" width="100px"/>](https://trello.com/) |
-
 
 
