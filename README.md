@@ -16,7 +16,7 @@
 | Daniel Moreira Santos Lima  | Desenvolvedor  | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/da3b8d2b-ec18-405c-b2be-7bedff43a27c" width="150px"/> | [GitHub](https://github.com/DanielLimaCpy) [Linkedln](https://www.linkedin.com/in/daniel-lima-637648179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | Gabriel Alves de Souza   | Desenvolvedor   | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/e5cc312c-c170-4d27-906d-d49e4b985e6d" width="150px"/> |[GitHub](https://github.com/gabriel15asouza) [Linkedln](https://www.linkedin.com/in/gabriel-alves-de-souza-5b7747267/) |
 | Guilherme Bezerra Junqueira | Desenvolvedor | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/2bd4f098-fbf3-46c9-bcf1-696c1e396c44" width="150px"/> | [GitHub](https://github.com/GuilhermebJunqueira) [Linkedln](https://www.linkedin.com/in/guilherme-bezerra-a01035170/) |
-| Pablo |
+| Pablo | Desenvolvedor | [GitHub](https://github.com/pablohgs05) [Linkedln](https://www.linkedin.com/in/pablo-henrique05/)
 | Pedro Henrique Lopes de Souza | Desenvolvedor   | <img src="https://github.com/YanYamim/VCCorp/assets/119015786/ad8a9b5a-c699-4dfd-b2ca-2eee1476d103" width="150px"/> | [GitHub](https://github.com/pelopinho) [Linkedln](https://www.linkedin.com/in/pelopes7/)|
 
 # <h2>Sobre o projeto 💬</h2>
